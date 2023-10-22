@@ -1,0 +1,6 @@
+#learn jwt
+1.hash password
+2.jwt password
+3.roles handling
+4.complex routing
+5.other packages requirements
